@@ -3,15 +3,15 @@ Hi, I'm an JavaScript engineer. 🤝
 
 ### 🚀 Featured project
 
-[![MOTTE — 買う前に、持ったあとの未来を。](https://motte-app.dokomademo1124.workers.dev/og.png)](https://motte-app.dokomademo1124.workers.dev)
+[![MOTTE — 買う前に、持ったあとの未来を。](https://motteee.com/og.png)](https://motteee.com)
 
-#### [MOTTE](https://motte-app.dokomademo1124.workers.dev)
+#### [MOTTE](https://motteee.com)
 
 欲しい商品の利用頻度・維持費・売却価値を見える化し、後悔しない買い物をサポートするWebアプリです。
 
 **React / TanStack Router / Hono / Cloudflare D1**
 
-[▶ MOTTEを試す](https://motte-app.dokomademo1124.workers.dev)
+[▶ MOTTEを試す](https://motteee.com)
 
 ### 🌱 my skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,github,gmail,jquery,nextjs,nodejs,notion,npm,nuxtjs)](https://skillicons.dev)
