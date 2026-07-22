@@ -1,6 +1,18 @@
 ## 🌕 About hiroyuki
 Hi, I'm an JavaScript engineer. 🤝
 
+### 🚀 Featured project
+
+[![MOTTE — 買う前に、持ったあとの未来を。](https://motte-mindful-shopping.dokomademo1124.chatgpt.site/og.png)](https://motte-mindful-shopping.dokomademo1124.chatgpt.site)
+
+#### [MOTTE](https://motte-mindful-shopping.dokomademo1124.chatgpt.site)
+
+欲しい商品の利用頻度・維持費・売却価値を見える化し、後悔しない買い物をサポートするWebアプリです。
+
+**React / Next.js / TypeScript / Tailwind CSS**
+
+[▶ MOTTEを試す](https://motte-mindful-shopping.dokomademo1124.chatgpt.site)
+
 ### 🌱 my skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,github,gmail,jquery,nextjs,nodejs,notion,npm,nuxtjs)](https://skillicons.dev)
 
