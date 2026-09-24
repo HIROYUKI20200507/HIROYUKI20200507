@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111B2B" />
+      <stop offset="1" stop-color="#193544" />
+    </linearGradient>
+    <radialGradient id="mist" cx="0" cy="0" r="1" gradientTransform="matrix(0 201 -270 0 1004 174)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#65D7BE" stop-opacity=".2" />
+      <stop offset="1" stop-color="#65D7BE" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="ai" x1="896" y1="124" x2="987" y2="215" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9CF0D4" />
+      <stop offset="1" stop-color="#67CFB7" />
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#D9E7F5" fill-opacity=".15" />
+    </pattern>
+    <filter id="shadow" x="729" y="59" width="476" height="286" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#07121D" flood-opacity=".35" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="380" rx="28" fill="url(#bg)" />
+  <rect width="1200" height="380" rx="28" fill="url(#mist)" />
+  <rect x="702" y="22" width="470" height="336" rx="22" fill="url(#dots)" opacity=".55" />
+  <path d="M0 325C197 296 362 368 572 333C752 303 974 285 1200 319V380H0V325Z" fill="#0B1422" fill-opacity=".48" />
+
+  <text x="76" y="82" fill="#9AE9D1" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="700" letter-spacing="2.8">ESTIMATE &amp; INVOICE MANAGEMENT</text>
+  <text x="68" y="180" fill="#F5F8FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="82" font-weight="750" letter-spacing="2">ミツカク</text>
+  <text x="76" y="232" fill="#A4F0D8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="27" font-weight="700">商品写真から、AIで商品マスタへ。</text>
+  <text x="76" y="276" fill="#D5DFE9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18">建設・設備業の見積から請求・入金管理まで。</text>
+  <rect x="76" y="306" width="170" height="34" rx="17" fill="#A4F0D8" fill-opacity=".12" stroke="#A4F0D8" stroke-opacity=".38" />
+  <text x="161" y="328" text-anchor="middle" fill="#C5F8E9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="650">見積業務をひとつに</text>
+
+  <g filter="url(#shadow)">
+    <rect x="752" y="82" width="128" height="208" rx="17" fill="#F7FAFC" />
+    <rect x="764" y="94" width="104" height="110" rx="11" fill="#DDEBE9" />
+    <path d="M776 185L799 158L814 172L836 139L857 185H776Z" fill="#78B6A7" />
+    <circle cx="840" cy="121" r="9" fill="#F5C76B" />
+    <path d="M775 112h18M775 112v18M857 112h-18M857 112v18M775 186h18M775 186v-18M857 186h-18M857 186v-18" stroke="#3B8275" stroke-width="2.5" stroke-linecap="round" />
+    <rect x="767" y="218" width="98" height="8" rx="4" fill="#D9E1E8" />
+    <rect x="767" y="236" width="69" height="8" rx="4" fill="#E6EBEF" />
+    <text x="816" y="271" text-anchor="middle" fill="#48616C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="650">商品写真</text>
+
+    <path d="M883 185h24" stroke="#A4F0D8" stroke-width="3" stroke-linecap="round" />
+    <path d="M901 178l8 7-8 7" stroke="#A4F0D8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <circle cx="947" cy="185" r="39" fill="url(#ai)" />
+    <path d="M947 162l4.8 13.2L965 180l-13.2 4.8L947 198l-4.8-13.2L929 180l13.2-4.8L947 162Z" fill="#143542" />
+    <circle cx="977" cy="151" r="4" fill="#DDFCEF" />
+
+    <path d="M988 185h17" stroke="#A4F0D8" stroke-width="3" stroke-linecap="round" />
+    <path d="M999 178l8 7-8 7" stroke="#A4F0D8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <rect x="1015" y="82" width="152" height="208" rx="17" fill="#F7FAFC" />
+    <text x="1032" y="111" fill="#243B49" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700">商品マスタ</text>
+    <rect x="1032" y="124" width="118" height="1" fill="#E3E9ED" />
+    <circle cx="1043" cy="148" r="7" fill="#D8EEE8" />
+    <rect x="1057" y="143" width="76" height="7" rx="3.5" fill="#AEC2C9" />
+    <rect x="1057" y="155" width="48" height="5" rx="2.5" fill="#D4DEE3" />
+    <circle cx="1043" cy="185" r="7" fill="#D8EEE8" />
+    <rect x="1057" y="180" width="84" height="7" rx="3.5" fill="#AEC2C9" />
+    <rect x="1057" y="192" width="56" height="5" rx="2.5" fill="#D4DEE3" />
+    <circle cx="1043" cy="222" r="7" fill="#D8EEE8" />
+    <rect x="1057" y="217" width="72" height="7" rx="3.5" fill="#AEC2C9" />
+    <rect x="1057" y="229" width="62" height="5" rx="2.5" fill="#D4DEE3" />
+    <rect x="1032" y="255" width="118" height="20" rx="10" fill="#DEF3EC" />
+    <text x="1091" y="269" text-anchor="middle" fill="#347968" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="700">見積に使う</text>
+  </g>
+</svg>

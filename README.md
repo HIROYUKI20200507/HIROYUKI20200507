@@ -1,25 +1,57 @@
-## 🌕 About hiroyuki
-Hi, I'm an JavaScript engineer. 🤝
+<div align="center">
+  <a href="https://quotation-kun.com">
+    <img src="./assets/mitsukaku-hero.svg" width="100%" alt="ミツカク — 商品写真からAIで商品登録、見積・請求管理まで" />
+  </a>
+  <p><strong>建設・設備業向け 見積・請求管理クラウド</strong></p>
+  <p>見積の作成・送付から、顧客承認、請求・入金管理までをブラウザで。</p>
+  <p><a href="https://quotation-kun.com"><strong>ミツカクを見てみる →</strong></a></p>
+</div>
 
-### 🚀 Featured project
+---
 
-[![MOTTE — 買う前に、持ったあとの未来を。](https://motteee.com/og.png)](https://motteee.com)
+## ミツカクでできること
 
-#### [MOTTE](https://motteee.com)
+- **商品写真からAIで一括登録** — 写真から品名・型番・単価などを読み取り、内容を確認して商品マスタへ登録。
+- **見積から請求・入金まで** — 見積を作成・送付し、顧客承認から請求書発行、入金管理までをひとつに。
+- **繰り返し作業をシンプルに** — 取引先ごとの単価設定や過去の見積検索で、日々の見積業務をスムーズに。
 
-欲しい商品の利用頻度・維持費・売却価値を見える化し、後悔しない買い物をサポートするWebアプリです。
+## About
 
-**React / TanStack Router / Hono / Cloudflare D1**
+JavaScriptを中心にWeb開発をしています。Vue.jsが好きです。
 
-[▶ MOTTEを試す](https://motteee.com)
+<p align="center">
+  <a href="https://hiroyukihp.com">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/Akimon6134">X</a>
+</p>
 
-### 🌱 my skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,github,gmail,jquery,nextjs,nodejs,notion,npm,nuxtjs)](https://skillicons.dev)
+## 🧰 Skills & tools
 
-[![My Skills](https://skillicons.dev/icons?i=pinia,prisma,react,redux,sentry,tailwind,ts,vite,vue,vuetify,vscode,wordpress)](https://skillicons.dev)
+<p align="center">
+  <strong>Languages & frameworks</strong><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,nuxtjs,react,nextjs,jquery,tailwind,pinia,redux,vuetify&perline=7" alt="JavaScript, TypeScript, HTML, CSS, Vue, Nuxt, React, Next.js, jQuery, Tailwind CSS, Pinia, Redux, Vuetify" />
+  </a>
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HIROYUKI20200507&theme=nord_bright) 
+<p align="center">
+  <strong>Tools</strong><br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,npm,vite,docker,prisma,sentry,wordpress,github,vscode&perline=9" alt="Node.js, npm, Vite, Docker, Prisma, Sentry, WordPress, GitHub, Visual Studio Code" />
+  </a>
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HIROYUKI20200507&theme=nord_bright)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HIROYUKI20200507&theme=nord_bright) 
+## 📊 GitHub
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HIROYUKI20200507&theme=nord_bright) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HIROYUKI20200507&theme=nord_bright)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HIROYUKI20200507&theme=nord_bright" width="100%" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HIROYUKI20200507&theme=nord_bright" width="49%" alt="Most used languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HIROYUKI20200507&theme=nord_bright" width="49%" alt="GitHub statistics" />
+</p>
+
+<div align="center">
+  <sub>Thanks for stopping by! ✨</sub>
+</div>
